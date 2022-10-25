@@ -1,1 +1,1 @@
-[Drop by and Hello Here!](https://olsson.tech)
+[Drop by and say Hello Here!](https://olsson.tech)
